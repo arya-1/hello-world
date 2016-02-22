@@ -2,4 +2,4 @@
 To learn about git
 
 
-Its complicated.
+I think , i am able to understand
